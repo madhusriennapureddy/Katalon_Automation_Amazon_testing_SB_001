@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TC_amazon_validate_search_item-001" time="100.814" tests="4" failures="0" errors="0">
+   <testsuite name="TC_amazon_validate_search_item-001" tests="4" failures="0" errors="0" time="100.814" skipped="0" timestamp="03-02-2024T20:14:36" hostname="ennap - LAPTOP-LI9S114J" id="Test Suites/DDT_TestSuit/TC_amazon_validate_search_item-001">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\ennap\\git\\Katalon_Automation_Amazon_testing_SB_001\\Reports\\20240203_201432\\DDT_TestSuit\\TC_amazon_validate_search_item-001\\20240203_201432"/>
+         <property name="logFiles" value="C:\\Users\\ennap\\git\\Katalon_Automation_Amazon_testing_SB_001\\Reports\\20240203_201432\\DDT_TestSuit\\TC_amazon_validate_search_item-001\\20240203_201432\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="ennap - LAPTOP-LI9S114J"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+         <property name="browser" value="Chrome 121.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.13"/>
+         <property name="sessionId" value="592a4a6e4e7707e8f37ed3046217f183"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Data_driven_testing/TC_amazon_validate_search_item-001" time="30.881" classname="Test Cases/Data_driven_testing/TC_amazon_validate_search_item-001" status="PASSED">
+         <system-out><![CDATA[03-02-2024T20:14:36 - [TEST_CASE][PASSED] - Test Cases/Data_driven_testing/TC_amazon_validate_search_item-001: Test Cases/Data_driven_testing/TC_amazon_validate_search_item-001
+
+03-02-2024T20:14:37 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+03-02-2024T20:14:37 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+03-02-2024T20:14:37 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+03-02-2024T20:14:38 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+03-02-2024T20:14:38 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/"): Navigate to 'https://www.amazon.com/' successfully
+
+03-02-2024T20:14:40 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/' successfully
+
+03-02-2024T20:14:40 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92"), category, false): All options with label 'Books' are selected in object 'Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92' 
+
+03-02-2024T20:14:59 - [MESSAGE][PASSED] - All options with label 'Books' are selected in object 'Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92' 
+
+03-02-2024T20:14:59 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/input_field-keywords"), Item): Text 'Da vinci code' is set on object 'Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/input_field-keywords'
+
+03-02-2024T20:15:00 - [MESSAGE][PASSED] - Text 'Da vinci code' is set on object 'Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/input_field-keywords'
+
+03-02-2024T20:15:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button")): Object: 'Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button' is clicked on
+
+03-02-2024T20:15:07 - [MESSAGE][PASSED] - Object: 'Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button' is clicked on
+
+03-02-2024T20:15:07 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+03-02-2024T20:15:07 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data_driven_testing/TC_amazon_validate_search_item-001" time="50.108" classname="Test Cases/Data_driven_testing/TC_amazon_validate_search_item-001" status="PASSED">
+         <system-out><![CDATA[03-02-2024T20:15:07 - [TEST_CASE][PASSED] - Test Cases/Data_driven_testing/TC_amazon_validate_search_item-001: Test Cases/Data_driven_testing/TC_amazon_validate_search_item-001
+
+03-02-2024T20:15:07 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+03-02-2024T20:15:07 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+03-02-2024T20:15:07 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+03-02-2024T20:15:08 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+03-02-2024T20:15:08 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/"): Navigate to 'https://www.amazon.com/' successfully
+
+03-02-2024T20:15:10 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/' successfully
+
+03-02-2024T20:15:10 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92"), category, false): All options with label 'Electronics' are selected in object 'Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92' 
+
+03-02-2024T20:15:40 - [MESSAGE][PASSED] - All options with label 'Electronics' are selected in object 'Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92' 
+
+03-02-2024T20:15:40 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/input_field-keywords"), Item): Text 'Mobile phones' is set on object 'Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/input_field-keywords'
+
+03-02-2024T20:15:42 - [MESSAGE][PASSED] - Text 'Mobile phones' is set on object 'Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/input_field-keywords'
+
+03-02-2024T20:15:42 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button")): Object: 'Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button' is clicked on
+
+03-02-2024T20:15:57 - [MESSAGE][PASSED] - Object: 'Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button' is clicked on
+
+03-02-2024T20:15:57 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+03-02-2024T20:15:57 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data_driven_testing/TC_amazon_validate_search_item-001" time="8.121" classname="Test Cases/Data_driven_testing/TC_amazon_validate_search_item-001" status="PASSED">
+         <system-out><![CDATA[03-02-2024T20:15:58 - [TEST_CASE][PASSED] - Test Cases/Data_driven_testing/TC_amazon_validate_search_item-001: Test Cases/Data_driven_testing/TC_amazon_validate_search_item-001
+
+03-02-2024T20:15:58 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+03-02-2024T20:15:58 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+03-02-2024T20:15:58 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+03-02-2024T20:15:58 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+03-02-2024T20:15:58 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/"): Navigate to 'https://www.amazon.com/' successfully
+
+03-02-2024T20:16:00 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/' successfully
+
+03-02-2024T20:16:00 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92"), category, false): All options with label 'Baby' are selected in object 'Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92' 
+
+03-02-2024T20:16:01 - [MESSAGE][PASSED] - All options with label 'Baby' are selected in object 'Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92' 
+
+03-02-2024T20:16:01 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/input_field-keywords"), Item): Text 'walkers' is set on object 'Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/input_field-keywords'
+
+03-02-2024T20:16:02 - [MESSAGE][PASSED] - Text 'walkers' is set on object 'Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/input_field-keywords'
+
+03-02-2024T20:16:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button")): Object: 'Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button' is clicked on
+
+03-02-2024T20:16:05 - [MESSAGE][PASSED] - Object: 'Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button' is clicked on
+
+03-02-2024T20:16:05 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+03-02-2024T20:16:06 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Data_driven_testing/TC_amazon_validate_search_item-001" time="11.35" classname="Test Cases/Data_driven_testing/TC_amazon_validate_search_item-001" status="PASSED">
+         <system-out><![CDATA[03-02-2024T20:16:06 - [TEST_CASE][PASSED] - Test Cases/Data_driven_testing/TC_amazon_validate_search_item-001: Test Cases/Data_driven_testing/TC_amazon_validate_search_item-001
+
+03-02-2024T20:16:06 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+03-02-2024T20:16:06 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+03-02-2024T20:16:06 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+03-02-2024T20:16:06 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+03-02-2024T20:16:06 - [TEST_STEP][PASSED] - navigateToUrl("https://www.amazon.com/"): Navigate to 'https://www.amazon.com/' successfully
+
+03-02-2024T20:16:08 - [MESSAGE][PASSED] - Navigate to 'https://www.amazon.com/' successfully
+
+03-02-2024T20:16:08 - [TEST_STEP][PASSED] - selectOptionByLabel(findTestObject("Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92"), category, false): All options with label 'Luggage' are selected in object 'Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92' 
+
+03-02-2024T20:16:10 - [MESSAGE][PASSED] - All options with label 'Luggage' are selected in object 'Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92' 
+
+03-02-2024T20:16:10 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/input_field-keywords"), Item): Text 'bags' is set on object 'Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/input_field-keywords'
+
+03-02-2024T20:16:11 - [MESSAGE][PASSED] - Text 'bags' is set on object 'Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/input_field-keywords'
+
+03-02-2024T20:16:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button")): Object: 'Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button' is clicked on
+
+03-02-2024T20:16:17 - [MESSAGE][PASSED] - Object: 'Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/inputnav-search-submit-button' is clicked on
+
+03-02-2024T20:16:17 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+03-02-2024T20:16:17 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[03-02-2024T20:14:36 - [TEST_SUITE][PASSED] - TC_amazon_validate_search_item-001: Test Cases/Data_driven_testing/TC_amazon_validate_search_item-001]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

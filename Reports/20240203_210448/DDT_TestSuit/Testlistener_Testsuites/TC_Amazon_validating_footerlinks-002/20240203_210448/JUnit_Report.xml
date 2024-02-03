@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TC_Amazon_validating_footerlinks-002" time="18.882" tests="1" failures="0" errors="0">
+   <testsuite name="TC_Amazon_validating_footerlinks-002" tests="1" failures="0" errors="0" time="18.882" skipped="0" timestamp="03-02-2024T21:04:52" hostname="ennap - LAPTOP-LI9S114J" id="Test Suites/DDT_TestSuit/Testlistener_Testsuites/TC_Amazon_validating_footerlinks-002">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\ennap\\git\\Katalon_Automation_Amazon_testing_SB_001\\Reports\\20240203_210448\\DDT_TestSuit\\Testlistener_Testsuites\\TC_Amazon_validating_footerlinks-002\\20240203_210448"/>
+         <property name="logFiles" value="C:\\Users\\ennap\\git\\Katalon_Automation_Amazon_testing_SB_001\\Reports\\20240203_210448\\DDT_TestSuit\\Testlistener_Testsuites\\TC_Amazon_validating_footerlinks-002\\20240203_210448\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="ennap - LAPTOP-LI9S114J"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="9.2.0.212"/>
+         <property name="browser" value="Chrome 121.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.13"/>
+         <property name="sessionId" value="bb98b79e1c35754ccdf3159c0a2f6d2e"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Amazon_testcases/TC_Amazon_validating_footerlinks-002" time="14.62" classname="Test Cases/Amazon_testcases/TC_Amazon_validating_footerlinks-002" status="PASSED">
+         <system-out><![CDATA[03-02-2024T21:04:56 - [TEST_CASE][PASSED] - Test Cases/Amazon_testcases/TC_Amazon_validating_footerlinks-002: Test Cases/Amazon_testcases/TC_Amazon_validating_footerlinks-002
+
+03-02-2024T21:04:56 - [TEST_STEP][PASSED] - Start listener action : sampleBeforeTestCase: Object: 'Object Repository/AmazonPages_Footerlinks_OR/Page_Amazon Sign-In/inputsignInSubmit' is clicked on
+
+03-02-2024T21:04:56 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AmazonPages_Footerlinks_OR/Page_Amazon.com. Spend less. Smile more/span_Account  Lists")): Object: 'Object Repository/AmazonPages_Footerlinks_OR/Page_Amazon.com. Spend less. Smile more/span_Account  Lists' is clicked on
+
+03-02-2024T21:04:59 - [MESSAGE][PASSED] - Object: 'Object Repository/AmazonPages_Footerlinks_OR/Page_Amazon.com. Spend less. Smile more/span_Account  Lists' is clicked on
+
+03-02-2024T21:04:59 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/AmazonPages_Footerlinks_OR/Page_Amazon Sign-In/input_email"), "9346590191"): Text '9346590191' is set on object 'Object Repository/AmazonPages_Footerlinks_OR/Page_Amazon Sign-In/input_email'
+
+03-02-2024T21:05:00 - [MESSAGE][PASSED] - Text '9346590191' is set on object 'Object Repository/AmazonPages_Footerlinks_OR/Page_Amazon Sign-In/input_email'
+
+03-02-2024T21:05:00 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AmazonPages_Footerlinks_OR/Page_Amazon Sign-In/inputcontinue")): Object: 'Object Repository/AmazonPages_Footerlinks_OR/Page_Amazon Sign-In/inputcontinue' is clicked on
+
+03-02-2024T21:05:02 - [MESSAGE][PASSED] - Object: 'Object Repository/AmazonPages_Footerlinks_OR/Page_Amazon Sign-In/inputcontinue' is clicked on
+
+03-02-2024T21:05:02 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/AmazonPages_Footerlinks_OR/Page_Amazon Sign-In/input_password"), "E7HzuEZzy+y2wNtDF6Y9RQ=="): Text ****** has been set on object 'Object Repository/AmazonPages_Footerlinks_OR/Page_Amazon Sign-In/input_password'
+
+03-02-2024T21:05:03 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/AmazonPages_Footerlinks_OR/Page_Amazon Sign-In/input_password'
+
+03-02-2024T21:05:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AmazonPages_Footerlinks_OR/Page_Amazon Sign-In/inputsignInSubmit")): Object: 'Object Repository/AmazonPages_Footerlinks_OR/Page_Amazon Sign-In/inputsignInSubmit' is clicked on
+
+03-02-2024T21:05:04 - [MESSAGE][PASSED] - Object: 'Object Repository/AmazonPages_Footerlinks_OR/Page_Amazon Sign-In/inputsignInSubmit' is clicked on
+
+03-02-2024T21:05:04 - [TEST_STEP][PASSED] - verifyElementClickable(findTestObject("Object Repository/AmazonPages_Footerlinks_OR/Page_Amazon.com. Spend less. Smile more/div_Amazon MusicStream millionsof songsAmaz_b96c2e")): Object 'Object Repository/AmazonPages_Footerlinks_OR/Page_Amazon.com. Spend less. Smile more/div_Amazon MusicStream millionsof songsAmaz_b96c2e' is clickable
+
+03-02-2024T21:05:07 - [MESSAGE][PASSED] - Object 'Object Repository/AmazonPages_Footerlinks_OR/Page_Amazon.com. Spend less. Smile more/div_Amazon MusicStream millionsof songsAmaz_b96c2e' is clickable
+
+03-02-2024T21:05:07 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: Object: 'Object Repository/AmazonPages_Footerlinks_OR/Page_Amazon.com. Spend less. Smile more/a_Sign Out' is clicked on
+
+03-02-2024T21:05:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AmazonPages_Footerlinks_OR/Page_Amazon.com. Spend less. Smile more/a_All")): Object: 'Object Repository/AmazonPages_Footerlinks_OR/Page_Amazon.com. Spend less. Smile more/a_All' is clicked on
+
+03-02-2024T21:05:07 - [MESSAGE][PASSED] - Object: 'Object Repository/AmazonPages_Footerlinks_OR/Page_Amazon.com. Spend less. Smile more/a_All' is clicked on
+
+03-02-2024T21:05:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/AmazonPages_Footerlinks_OR/Page_Amazon.com. Spend less. Smile more/a_Sign Out")): Object: 'Object Repository/AmazonPages_Footerlinks_OR/Page_Amazon.com. Spend less. Smile more/a_Sign Out' is clicked on
+
+03-02-2024T21:05:10 - [MESSAGE][PASSED] - Object: 'Object Repository/AmazonPages_Footerlinks_OR/Page_Amazon.com. Spend less. Smile more/a_Sign Out' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[03-02-2024T21:04:52 - [TEST_SUITE][PASSED] - TC_Amazon_validating_footerlinks-002: Test Cases/Amazon_testcases/TC_Amazon_validating_footerlinks-002]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
