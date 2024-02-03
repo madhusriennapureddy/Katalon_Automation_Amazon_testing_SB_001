@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_United States</name>
+   <tag></tag>
+   <elementGuidId>839bca05-bee6-46b4-987a-00fa0e91a023</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#icp-touch-link-country</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='icp-touch-link-country']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6cc7fb68-373f-40fb-8244-1c6dfe941dde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/customer-preferences/country?ie=UTF8&amp;preferencesReturnUrl=%2F&amp;ref_=footer_icp_cp</value>
+      <webElementGuid>335485fb-4b15-40de-8a3f-df73c02d34d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Choose a country/region for shopping.</value>
+      <webElementGuid>342ff0ad-2c2c-4178-9f87-d6b32a69efd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icp-button</value>
+      <webElementGuid>a3fe3570-cb88-4c92-805b-0bbd29b2da50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>icp-touch-link-country</value>
+      <webElementGuid>667e436f-3050-4509-b58f-f6ef0c95cc3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+  United States
+</value>
+      <webElementGuid>26822224-741b-4186-97ba-cc4feb945630</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;icp-touch-link-country&quot;)</value>
+      <webElementGuid>720599e0-9a60-4fcc-a0ec-24d23d303fb2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='icp-touch-link-country']</value>
+      <webElementGuid>4216b6f8-192d-4059-a596-eb76aba1f33b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navFooter']/div[3]/span[2]/div/a[3]</value>
+      <webElementGuid>c93a9a0f-338e-42f8-9b32-edcb0bc347ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/customer-preferences/country?ie=UTF8&amp;preferencesReturnUrl=%2F&amp;ref_=footer_icp_cp')]</value>
+      <webElementGuid>7287a893-28d6-49f9-890b-a29b3a7edf3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/div/a[3]</value>
+      <webElementGuid>a8590d29-cefd-4645-a503-ef21b1651795</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/customer-preferences/country?ie=UTF8&amp;preferencesReturnUrl=%2F&amp;ref_=footer_icp_cp' and @id = 'icp-touch-link-country' and (text() = '
+  United States
+' or . = '
+  United States
+')]</value>
+      <webElementGuid>0bf6212e-122a-4b64-aea3-1ebb87afdf91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

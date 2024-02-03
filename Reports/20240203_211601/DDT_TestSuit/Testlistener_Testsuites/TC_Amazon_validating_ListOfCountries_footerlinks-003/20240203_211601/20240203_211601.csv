@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC_Amazon_validating_ListOfCountries_footerlinks-003,Chrome 121.0.0.0,,,03-02-2024 21:16:04,03-02-2024 21:16:37,32.795s,PASSED
+,,,,,,,
+Test Cases/Amazon_testcases/TC_Amazon_validating_ListOfCountries_footerlinks-003,Chrome 121.0.0.0,,,03-02-2024 21:16:07,03-02-2024 21:16:37,29.132s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,03-02-2024 21:16:08,03-02-2024 21:16:30,22.356s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/AmazonPages_ListOfCountries_OR/Page_Amazon.com. Spend less. Smile more/a_United States""), 0)",Chrome 121.0.0.0,,,03-02-2024 21:16:30,03-02-2024 21:16:34,3.640s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,03-02-2024 21:16:34,03-02-2024 21:16:37,3.037s,PASSED
