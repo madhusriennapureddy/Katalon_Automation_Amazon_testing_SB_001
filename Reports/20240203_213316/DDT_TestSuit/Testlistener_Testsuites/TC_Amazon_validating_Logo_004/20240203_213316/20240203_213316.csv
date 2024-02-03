@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC_Amazon_validating_Logo_004,Chrome 121.0.0.0,,,03-02-2024 21:33:19,03-02-2024 21:33:48,28.552s,PASSED
+,,,,,,,
+Test Cases/Amazon_testcases/TC_Amazon_validating_Logo_004,Chrome 121.0.0.0,,,03-02-2024 21:33:22,03-02-2024 21:33:48,25.560s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,03-02-2024 21:33:22,03-02-2024 21:33:39,16.720s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/AmazonPages_LogoOR/Page_Amazon.com. Spend less. Smile more/a_us""), 0)",Chrome 121.0.0.0,,,03-02-2024 21:33:39,03-02-2024 21:33:43,4.369s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,03-02-2024 21:33:43,03-02-2024 21:33:48,4.358s,PASSED

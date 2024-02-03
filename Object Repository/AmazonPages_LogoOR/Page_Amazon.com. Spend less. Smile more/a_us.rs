@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_us</name>
+   <tag></tag>
+   <elementGuidId>c543f736-4ffe-4129-a0fc-1e5334fd5c43</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#nav-logo-sprites</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='nav-logo-sprites']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>40388b42-29c3-4e37-b25e-aca98eabf426</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/ref=nav_logo</value>
+      <webElementGuid>95726311-6186-4225-8c37-d59fdf1f5e60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>nav-logo-sprites</value>
+      <webElementGuid>830502e7-397e-459f-a0d7-b2b7e641245c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-logo-link nav-progressive-attribute</value>
+      <webElementGuid>6e3a53b7-e3f4-482d-8338-c9aeed3f1cef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Amazon</value>
+      <webElementGuid>36bc9372-6986-42db-b166-2ea61520cc42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+      
+      
+      .us
+    </value>
+      <webElementGuid>47f2cb3d-0aee-4b99-9e15-32d787db58a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav-logo-sprites&quot;)</value>
+      <webElementGuid>c6d7c177-1f6b-4e34-845d-bc9e682ba8f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='nav-logo-sprites']</value>
+      <webElementGuid>1332e2fa-db24-4b5e-b1f2-3a6475adc87a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='nav-logo']/a</value>
+      <webElementGuid>9bd22401-3e7b-4a6c-bcf8-513394915db4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/ref=nav_logo')]</value>
+      <webElementGuid>ca668a93-66b3-427e-ad11-c5a321daf94e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/a</value>
+      <webElementGuid>96006634-ac0a-425e-afca-0ee885847e21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/ref=nav_logo' and @id = 'nav-logo-sprites' and (text() = '
+      
+      
+      .us
+    ' or . = '
+      
+      
+      .us
+    ')]</value>
+      <webElementGuid>43fb0950-5d70-4d11-98e5-39524b9ba34f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
