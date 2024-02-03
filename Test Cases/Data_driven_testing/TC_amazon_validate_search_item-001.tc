@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_amazon_validate_search_item-001</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8ab72a3b-3c20-4251-959f-b750daf10cc5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9368b123-bbc0-4b2d-9ac3-0f78ae160708</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a738e231-05fa-49e4-afd5-29132ea9a0c7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9368b123-bbc0-4b2d-9ac3-0f78ae160708</id>
+      <masked>false</masked>
+      <name>category</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a738e231-05fa-49e4-afd5-29132ea9a0c7</id>
+      <masked>false</masked>
+      <name>Item</name>
+   </variable>
+</TestCaseEntity>
