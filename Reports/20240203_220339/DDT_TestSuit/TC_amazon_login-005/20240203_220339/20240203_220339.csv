@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC_amazon_login-005,Chrome 121.0.0.0,,,03-02-2024 22:03:42,03-02-2024 22:05:07,1m - 25.597s,FAILED
+,,,,,,,
+Test Cases/Data_driven_testing/TC_validating_login_with_internalData,Chrome 121.0.0.0,,,03-02-2024 22:05:05,03-02-2024 22:05:07,2.298s,FAILED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,03-02-2024 22:05:05,03-02-2024 22:05:05,0.094s,ERROR
+"openBrowser("""")",Chrome 121.0.0.0,,,03-02-2024 22:05:05,03-02-2024 22:05:06,0.808s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,03-02-2024 22:05:06,03-02-2024 22:05:07,1.209s,PASSED
+"click(findTestObject(""Object Repository/AmazonPages_login_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, sign in""))",Chrome 121.0.0.0,,,03-02-2024 22:05:07,03-02-2024 22:05:07,0.095s,FAILED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,03-02-2024 22:05:07,03-02-2024 22:05:07,0.071s,ERROR

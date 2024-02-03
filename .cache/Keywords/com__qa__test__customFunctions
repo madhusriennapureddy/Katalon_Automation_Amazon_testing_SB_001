@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "6E5D56F9038A00599C707C7E40A5A0C4",
+  "keywordClasses": [
+    {
+      "name": "com.qa.test.customFunctions",
+      "keywordMethods": [
+        {
+          "name": "printHello",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

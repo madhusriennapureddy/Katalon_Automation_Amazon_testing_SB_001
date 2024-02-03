@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/AmazonPages_Footerlinks_OR/Page_Amazon.com. Spend less. Smile more/a_All",
+      "brokenLocator": "//a[@id\u003d\u0027nav-hamburger-menu\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/div[4]/div/a",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240203_220857/DDT_TestSuit/TC_amazon_login-005/20240203_220857/Object Repository/AmazonPages_Footerlinks_OR/Page_Amazon.com. Spend less. Smile more/a_All_position.png"
+    }
+  ]
+}
