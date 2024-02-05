@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC_Amazon_validating_ListOfCountries_footerlinks-003,Edge Chromium 121,,,05-02-2024 23:56:20,05-02-2024 23:56:44,24.552s,PASSED
+,,,,,,,
+Test Cases/Amazon_testcases/TC_Amazon_validating_ListOfCountries_footerlinks-003,Edge Chromium 121,,,05-02-2024 23:56:26,05-02-2024 23:56:44,18.245s,PASSED
+Start listener action : sampleBeforeTestCase,Edge Chromium 121,,,05-02-2024 23:56:26,05-02-2024 23:56:35,8.644s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/AmazonPages_ListOfCountries_OR/Page_Amazon.com. Spend less. Smile more/a_United States""), 0)",Edge Chromium 121,,,05-02-2024 23:56:35,05-02-2024 23:56:41,5.829s,PASSED
+Start listener action : sampleAfterTestCase,Edge Chromium 121,,,05-02-2024 23:56:41,05-02-2024 23:56:44,3.639s,PASSED

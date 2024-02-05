@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC_Amazon_validating_Login_005,Edge Chromium 121,,,05-02-2024 23:38:57,05-02-2024 23:39:28,31.519s,PASSED
+,,,,,,,
+Test Cases/Amazon_testcases/TC_Amazon_validating_Login_005,Edge Chromium 121,,,05-02-2024 23:39:06,05-02-2024 23:39:28,21.760s,PASSED
+Start listener action : sampleBeforeTestCase,Edge Chromium 121,,,05-02-2024 23:39:06,05-02-2024 23:39:14,7.898s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/AmazonPages_login_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, Madhusri""), 0)",Edge Chromium 121,,,05-02-2024 23:39:14,05-02-2024 23:39:24,9.715s,PASSED
+Start listener action : sampleAfterTestCase,Edge Chromium 121,,,05-02-2024 23:39:24,05-02-2024 23:39:28,4.076s,PASSED
