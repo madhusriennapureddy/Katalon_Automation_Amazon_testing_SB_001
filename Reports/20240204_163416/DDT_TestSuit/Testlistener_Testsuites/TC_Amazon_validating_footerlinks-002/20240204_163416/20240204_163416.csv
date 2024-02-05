@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC_Amazon_validating_footerlinks-002,Chrome 121.0.0.0,,,04-02-2024 16:34:19,04-02-2024 16:35:08,48.627s,ERROR
+,,,,,,,
+Test Cases/Keywords/TC_Amazon_Validating_DropDownBox_005,Chrome 121.0.0.0,,,04-02-2024 16:35:07,04-02-2024 16:35:08,0.223s,ERROR
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,04-02-2024 16:35:07,04-02-2024 16:35:08,0.065s,ERROR
+"com.qa.test.customFunctions.CheckDropDownListElementExist(findTestObject(""Page_Amazon.com. Spend less. Smile more/CategoryOR""), ""Baby"")",Chrome 121.0.0.0,,,04-02-2024 16:35:08,04-02-2024 16:35:08,0.074s,ERROR
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,04-02-2024 16:35:08,04-02-2024 16:35:08,0.065s,ERROR

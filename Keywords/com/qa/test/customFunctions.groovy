@@ -25,10 +25,21 @@ import org.openqa.selenium.support.ui.Select
 
 public class customFunctions {
 	@Keyword
-	def printHello() {
-		println("\n_____Helloworld_____\n")
+	def CheckDropDownListElementExist(TestObject object ,String option) {
+		boolean flag = false;
+		WebElement element=WebUiCommonHelper.findWebElement(object,20);
+		Select ddl=new Select(element)
+		for(WebElement ele : ddl.getOptions()) {
+			if(ele.getText()().equals(option)) {
+				System.out.println("Element Exist");
+				return flag=true;
+			}
+			else {
+				System.out.println("Element not exist");
+			}
+			return flag;
+		}
 	}
 }
-
 
 

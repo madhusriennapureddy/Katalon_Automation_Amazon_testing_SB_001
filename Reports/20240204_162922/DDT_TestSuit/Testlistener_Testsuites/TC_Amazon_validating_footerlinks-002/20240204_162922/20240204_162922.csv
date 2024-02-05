@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC_Amazon_validating_footerlinks-002,Chrome 121.0.0.0,,,04-02-2024 16:29:26,04-02-2024 16:30:05,38.343s,FAILED
+,,,,,,,
+Test Cases/Keywords/TC_Amazon_Validating_DropDownBox_005,Chrome 121.0.0.0,,,04-02-2024 16:30:05,04-02-2024 16:30:05,0.210s,FAILED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,04-02-2024 16:30:05,04-02-2024 16:30:05,0.071s,ERROR
+"click(findTestObject(""Page_Amazon.com. Spend less. Smile more/CategoryOR""))",Chrome 121.0.0.0,,,04-02-2024 16:30:05,04-02-2024 16:30:05,0.066s,FAILED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,04-02-2024 16:30:05,04-02-2024 16:30:05,0.060s,ERROR

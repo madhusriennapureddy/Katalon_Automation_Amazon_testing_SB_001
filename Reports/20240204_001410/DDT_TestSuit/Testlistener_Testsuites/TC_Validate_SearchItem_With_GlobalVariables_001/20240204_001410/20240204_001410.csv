@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC_Validate_SearchItem_With_GlobalVariables_001,Chrome 121.0.0.0,,,04-02-2024 00:14:13,04-02-2024 00:14:56,43.029s,FAILED
+,,,,,,,
+Test Cases/Amazon_testcases/Global variables/TC_Validating_searchItem_with_GlobalVariables_001,Chrome 121.0.0.0,,,04-02-2024 00:14:56,04-02-2024 00:14:56,0.209s,FAILED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,04-02-2024 00:14:56,04-02-2024 00:14:56,0.060s,ERROR
+"selectOptionByLabel(findTestObject(""Object Repository/AmazonPages_searchOR/Page_Amazon.com. Spend less. Smile more/select_All Departments        Arts  Crafts _135c92""), category, false)",Chrome 121.0.0.0,,,04-02-2024 00:14:56,04-02-2024 00:14:56,0.076s,FAILED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,04-02-2024 00:14:56,04-02-2024 00:14:56,0.056s,ERROR

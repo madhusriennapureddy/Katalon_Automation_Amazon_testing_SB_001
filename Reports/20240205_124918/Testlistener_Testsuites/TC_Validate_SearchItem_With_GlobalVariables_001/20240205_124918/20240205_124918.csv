@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC_Validate_SearchItem_With_GlobalVariables_001,Chrome 121.0.0.0,,,05-02-2024 12:49:22,05-02-2024 12:50:17,55.662s,FAILED
+,,,,,,,
+Test Cases/Amazon_testcases/Global variables/TC_Validating_searchItem_with_GlobalVariables_001,Chrome 121.0.0.0,,,05-02-2024 12:50:16,05-02-2024 12:50:17,1.402s,FAILED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,05-02-2024 12:50:16,05-02-2024 12:50:16,0.059s,ERROR
+"openBrowser("""")",Chrome 121.0.0.0,,,05-02-2024 12:50:16,05-02-2024 12:50:17,0.864s,PASSED
+"navigateToUrl(""https://www.amazon.com/"")",Chrome 121.0.0.0,,,05-02-2024 12:50:17,05-02-2024 12:50:17,0.320s,PASSED
+"selectOptionByValue(findTestObject(""Page_Amazon.com. Spend less. Smile more/CategoryOR""), category, true)",Chrome 121.0.0.0,,,05-02-2024 12:50:17,05-02-2024 12:50:17,0.080s,FAILED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,05-02-2024 12:50:17,05-02-2024 12:50:17,0.064s,ERROR

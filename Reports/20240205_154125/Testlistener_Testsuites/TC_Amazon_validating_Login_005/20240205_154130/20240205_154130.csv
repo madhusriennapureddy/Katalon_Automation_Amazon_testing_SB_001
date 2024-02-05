@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC_Amazon_validating_Login_005,Chrome 121.0.0.0,,,05-02-2024 15:41:34,05-02-2024 15:42:03,29.537s,PASSED
+,,,,,,,
+Test Cases/Amazon_testcases/TC_Amazon_validating_Login_005,Chrome 121.0.0.0,,,05-02-2024 15:41:37,05-02-2024 15:42:03,25.768s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,05-02-2024 15:41:37,05-02-2024 15:41:54,16.590s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/AmazonPages_login_OR/Page_Amazon.com. Spend less. Smile more/span_Hello, Madhusri""), 0)",Chrome 121.0.0.0,,,05-02-2024 15:41:54,05-02-2024 15:41:58,4.549s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,05-02-2024 15:41:58,05-02-2024 15:42:03,4.549s,PASSED
