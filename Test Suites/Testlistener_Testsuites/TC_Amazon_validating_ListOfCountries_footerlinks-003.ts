@@ -12,7 +12,7 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>363de598-27d7-4ed2-a908-9a3c0b94b1cc</testSuiteGuid>
    <testCaseLink>
-      <guid>f0012cc7-8ea6-48cc-8d73-1522ccf46fb1</guid>
+      <guid>bc80e100-be30-48a3-b7e5-7e7fb86ba70d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Amazon_testcases/TC_Amazon_validating_ListOfCountries_footerlinks-003</testCaseId>
