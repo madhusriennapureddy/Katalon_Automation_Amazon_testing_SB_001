@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>6cc7fb68-373f-40fb-8244-1c6dfe941dde</webElementGuid>
+      <webElementGuid>fa47e175-d077-4d5a-996e-d114a8b9614f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/customer-preferences/country?ie=UTF8&amp;preferencesReturnUrl=%2F&amp;ref_=footer_icp_cp</value>
-      <webElementGuid>335485fb-4b15-40de-8a3f-df73c02d34d4</webElementGuid>
+      <webElementGuid>f5789e8e-8f6b-4728-a029-498bb35c1be9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Choose a country/region for shopping.</value>
-      <webElementGuid>342ff0ad-2c2c-4178-9f87-d6b32a69efd9</webElementGuid>
+      <webElementGuid>bc5406cb-354d-41b6-8806-4a76bac471c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>icp-button</value>
-      <webElementGuid>a3fe3570-cb88-4c92-805b-0bbd29b2da50</webElementGuid>
+      <webElementGuid>c98e832e-3233-4c6e-93a7-d8be0f1644bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>icp-touch-link-country</value>
-      <webElementGuid>667e436f-3050-4509-b58f-f6ef0c95cc3a</webElementGuid>
+      <webElementGuid>a37b37aa-67b6-4974-9252-f9619a54d220</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -64,7 +64,7 @@
       <value>
   United States
 </value>
-      <webElementGuid>26822224-741b-4186-97ba-cc4feb945630</webElementGuid>
+      <webElementGuid>c867d65a-b2f2-4e32-88ba-e608721ea132</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;icp-touch-link-country&quot;)</value>
-      <webElementGuid>720599e0-9a60-4fcc-a0ec-24d23d303fb2</webElementGuid>
+      <webElementGuid>f342eded-ebbc-47ac-b688-a5bd5c24661a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='icp-touch-link-country']</value>
-      <webElementGuid>4216b6f8-192d-4059-a596-eb76aba1f33b</webElementGuid>
+      <webElementGuid>50cfaf88-3a46-4de4-a918-3620008c839e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='navFooter']/div[3]/span[2]/div/a[3]</value>
-      <webElementGuid>c93a9a0f-338e-42f8-9b32-edcb0bc347ec</webElementGuid>
+      <webElementGuid>50ebea63-05ec-471b-b68e-1f303af50c14</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/customer-preferences/country?ie=UTF8&amp;preferencesReturnUrl=%2F&amp;ref_=footer_icp_cp')]</value>
-      <webElementGuid>7287a893-28d6-49f9-890b-a29b3a7edf3e</webElementGuid>
+      <webElementGuid>af0356ff-2c0e-490e-9064-a4d1b838cc31</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span[2]/div/a[3]</value>
-      <webElementGuid>a8590d29-cefd-4645-a503-ef21b1651795</webElementGuid>
+      <webElementGuid>8326d4f6-7f5e-4541-aaf8-759044c37b8a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,6 +116,6 @@
 ' or . = '
   United States
 ')]</value>
-      <webElementGuid>0bf6212e-122a-4b64-aea3-1ebb87afdf91</webElementGuid>
+      <webElementGuid>fdc6d994-0fe8-449d-80fd-4cb7a560f07f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

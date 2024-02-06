@@ -17,6 +17,17 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/AmazonPages_ListOfCountries_OR/Page_Amazon.com. Spend less. Smile more/a_United States'), 
-    0)
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.amazon.com/')
+
+WebUI.click(findTestObject('Object Repository/AmazonPages_ListOfCountries_OR/Page_Amazon.com. Spend less. Smile more/a_United States'))
+
+WebUI.click(findTestObject('Object Repository/AmazonPages_ListOfCountries_OR/Page_Go to website/span_United States'))
+
+WebUI.click(findTestObject('Object Repository/AmazonPages_ListOfCountries_OR/Page_Go to website/a_India'))
+
+WebUI.click(findTestObject('Object Repository/AmazonPages_ListOfCountries_OR/Page_Go to website/input_a-button-input'))
+
+WebUI.closeBrowser()
 
