@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TC_Amazon_validating_footerlinks-002,Chrome 121.0.0.0,,,06-02-2024 13:40:59,06-02-2024 13:41:28,28.354s,PASSED
+,,,,,,,
+Test Cases/Amazon_testcases/TC_Amazon_validating_footerlinks-002,Chrome 121.0.0.0,,,06-02-2024 13:41:04,06-02-2024 13:41:28,23.853s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 121.0.0.0,,,06-02-2024 13:41:04,06-02-2024 13:41:20,16.185s,PASSED
+"verifyElementClickable(findTestObject(""Object Repository/AmazonPages_Footerlinks_OR/Page_Amazon.com. Spend less. Smile more/div_Amazon MusicStream millionsof songsAmaz_b96c2e""))",Chrome 121.0.0.0,,,06-02-2024 13:41:20,06-02-2024 13:41:24,3.651s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 121.0.0.0,,,06-02-2024 13:41:24,06-02-2024 13:41:28,3.928s,PASSED
